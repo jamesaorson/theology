@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "check": "npm run check:markdown",
+    "check:markdown": "markdownlint '**/*.md' --ignore node_modules --ignore dist",
+    "fix": "npm run fix:markdown",
+    "fix:markdown": "markdownlint '**/*.md' --ignore node_modules --ignore dist --fix"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.48.0"
+  }
+}
