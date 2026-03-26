@@ -114,6 +114,40 @@ considerably. Several factors drove this:
 - His framework of the three goods becomes the standard Western theology of marriage through
   the medieval period and into Trent.
 
+  **On marital sex and sin:** Augustine's position on the purpose of sexual intercourse
+  within marriage deserves particular scrutiny. In *De bono coniugali* he writes:
+
+  > "Then follows the connection of fellowship in children, which is the one alone worthy
+  > fruit, not of the union of male and female, but of the sexual intercourse."
+
+  The implication is stark: sexual intercourse within marriage is only without sin when
+  directed toward procreation. Sex for mutual comfort, pleasure, or the "rendering of the
+  debt" (1 Cor. 7:3–5) is, for Augustine, at best a venial sin — excused by marriage but
+  not sanctified by it. This goes well beyond what Paul says in 1 Corinthians 7, where
+  mutual sexual availability is presented as a positive obligation, not a concession to
+  weakness.
+
+  **The biographical factor:** Augustine's severity on marital sex cannot be understood
+  apart from his own history. By his own account in the *Confessions*, he kept a concubine
+  for roughly fifteen years (from age 17), fathered a son (Adeodatus) outside marriage, and
+  struggled profoundly with sexual desire. His famous prayer — "Grant me chastity and
+  continence, but not yet" (*Confessions* VIII.7.17) — is not merely a literary device; it
+  reflects a man who experienced sexual passion as a dominating force.
+
+  When Augustine finally embraced continence after his conversion (386), the break was
+  total. His subsequent theology bears the marks of overcorrection: having experienced the
+  destructive power of disordered sexual desire firsthand, he could not fully separate
+  *ordered* marital sexuality from the concupiscence he knew so intimately. The result is a
+  theology in which even lawful marital sex carries a residual taint — a position that owes
+  as much to Augustine's personal struggle as to his exegesis of Scripture.
+
+  This matters because Augustine's framework dominated Western Christianity for over a
+  millennium. His three goods of marriage shaped Catholic canon law, scholastic theology,
+  and even (indirectly) Protestant thinking. The procreation-only view of sinless marital
+  sex became the default Latin position, and when the Reformers and Puritans later pushed
+  back — affirming marital sex as a positive good in itself — they were correcting not just
+  a theological error but the long shadow of one man's biography.
+
 **John Chrysostom** (*c.* 349–407):
 - *Homilies on Ephesians*: Offers a remarkably high view of marital love. "When we speak of
   the wife obeying the husband, we speak of it as of the church."
