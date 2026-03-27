@@ -256,6 +256,78 @@ society, help, and comfort" that the marriage covenant exists to provide. The Pu
 not merely reject the celibacy hierarchy in principle; they rejected the trajectory it
 implied for the lived experience of marriage from beginning to end.
 
+### Children, Evangelism, and "Holy Friendships"
+
+The patristic devaluation of marriage had implications not only for sexual ethics but for the
+church's understanding of how the faith propagates. If virginity is the higher calling and
+marriage is a concession, what role do children play in the mission of the church?
+
+Augustine addressed this directly in *De bono coniugali*:
+
+> "And on this account it is good to marry, because it is good to beget children, to be a
+> mother of a family: but it is better not to marry, because it is better not to stand in
+> need of this work, in order to human fellowship itself. For such is the state of the human
+> race now, that (others, who contain not, not only being taken up with marriage, but many
+> also waxing wanton through unlawful concubinages, the Good Creator working what is good
+> out of their evils) there fails not numerous progeny, and abundant succession, out of
+> which to procure holy friendships."
+
+The argument is remarkable: Christians need not have children because the rest of the world
+— including those in fornication and concubinage — will produce enough offspring for the
+church to evangelize. God, in His providence, works good out of the world's sexual sin by
+generating a surplus of souls available for conversion. The church's task is not to *produce*
+the next generation of believers through the covenant family but to *recruit* them from the
+world's abundant progeny into "holy friendships" (spiritual community).
+
+This logic follows necessarily from Augustine's premises. If celibacy is higher than
+marriage, and if marriage exists primarily for procreation, then the most spiritual Christians
+will not be producing children at all. The church must therefore rely on conversion rather
+than covenant succession for its growth. The celibacy ideal and the evangelism-over-family
+model are two sides of the same coin.
+
+**The Reformed and Puritan reversal** on this point was dramatic and rooted in covenant
+theology. The Reformers and Puritans did not merely disagree with Augustine's conclusion —
+they operated from a fundamentally different ecclesiology:
+
+- **The covenant family as the primary means of grace.** The Reformed tradition, drawing on
+  the Abrahamic covenant (Gen. 17:7 — "I will be God to you and to your offspring after
+  you"), understood the believing household as the normative context for producing the next
+  generation of Christians. Children born to believing parents are not raw material for
+  future evangelism — they are covenant children, set apart from birth, raised in the
+  nurture and admonition of the Lord (Eph. 6:4), and received into the visible church
+  through baptism (in the paedobaptist traditions) or through the covenant promises claimed
+  by their parents (in the Baptist traditions).
+
+- **The household as a "little church."** William Gouge's phrase captures the Puritan
+  vision: the family is itself a unit of ministry. The father catechizes, the mother
+  instructs, the household worships together. Children are not merely permitted — they are
+  a calling, a stewardship, and the most common means by which the church grows across
+  generations.
+
+- **Psalm 127 and the quiver theology.** "Behold, children are a heritage from the LORD,
+  the fruit of the womb a reward" (Ps. 127:3). The Puritans took this at face value.
+  Children are not a concession to those who cannot attain celibacy — they are a *reward*,
+  a *blessing*, a sign of God's favor. The fruitful household is not spiritually inferior
+  to the celibate life; it is the normative expression of faithfulness for most believers.
+
+- **Deuteronomy 6:6–7 and generational transmission.** "You shall teach them diligently to
+  your children, and shall talk of them when you sit in your house." The Puritans read this
+  not as a fallback for those who failed to attain virginity but as a primary command. The
+  faith is transmitted through families. The covenant household is God's ordinary means of
+  building His church across time.
+
+The contrast with Augustine could hardly be sharper. Where Augustine saw the world's children
+as the church's recruitment pool, the Puritans saw their *own* children as the church's
+future. Where Augustine could afford to be indifferent to Christian reproduction because
+evangelism would supply the deficit, the Puritans understood the family as the frontline of
+the church's mission. The Great Commission and the covenant household were not in tension —
+they were complementary, with the family as the more ordinary and reliable means.
+
+This has direct implications for the prenup project. A marriage contract grounded in the
+Puritan and Reformed tradition treats children not as a biological byproduct excused by
+marriage but as one of the covenant's central purposes — a ministry entrusted to the couple,
+a means of grace to the church, and a heritage from the Lord.
+
 ### The Consensus
 
 By the end of the 4th century, the patristic consensus was clear:
