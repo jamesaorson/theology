@@ -15,7 +15,7 @@ Abandonment also includes _constructive abandonment_: a pattern of conduct so se
 unrepentant that it constitutes a de facto rejection of the covenant obligations, even without physical departure.
 The church panel may find constructive abandonment where a party has committed one or more violations listed in
 [Section IV](#iv-the-prohibitions) — particularly assault, ejection, or criminal conduct — and has refused to
-repent through the full remedy process. This finding does not create a new divorce ground; it is an application of
+repent through the full remedy process. This finding does not create a new divorce ground, rather it is an application of
 the existing desertion ground (1 Corinthians 7:15) to cases where the offender has abandoned the covenant in
 conduct while remaining present in body. The threshold is high: isolated violations, however serious, do not
 establish constructive abandonment. The church panel must find a sustained pattern of unrepentant conduct that
@@ -70,105 +70,120 @@ Separation is not dissolution; it is a protective measure creating conditions fo
 
 Marriage, as ordained by God, is a sacred covenant that reflects His unchanging character and relational design for
 humanity. From the beginning, Scripture portrays marriage as a profound union intended to embody mutual love,
-fidelity, and oneness, as seen in Genesis 2:24: "Therefore shall a man leave his father and his mother, and shall
-cleave unto his wife: and they shall be one flesh." This covenantal bond mirrors God's own covenants with His people,
+fidelity, and oneness, as seen in Genesis 2:24, "For this reason a man will leave his father and mother and be united to
+his wife, and they will become one flesh." This covenantal bond mirrors God's own covenants with His people,
 such as the Abrahamic covenant (Genesis 17:1-8), where God promises blessing and requires faithfulness, or the Mosaic
 covenant (Exodus 19:5-6), which establishes Israel as a holy nation under divine law. Yet, central to these divine
-covenants is God's unyielding justice—a attribute intrinsic to His nature, as declared in Deuteronomy 32:4: "He is
-the Rock, his work is perfect: for all his ways are judgment: a God of truth and without iniquity, just and right is
-he." This justice ensures that covenants are not arbitrary but governed by righteousness, accountability, and
-consequences for violation, balancing mercy with holiness (Psalm 89:14: "Justice and judgment are the habitation of
-thy throne: mercy and truth shall go before thy face").
+covenants is God's unyielding justice—an attribute intrinsic to His nature, as declared in Deuteronomy 32:4, "He is the
+Rock, His work is perfect; all His ways are just. A God of faithfulness without injustice, righteous and upright is He."
+This justice ensures that covenants are not arbitrary but governed by righteousness, accountability, and
+consequences for violation, balancing mercy with holiness (Psalm 89:14, "Righteousness and justice are the foundation of
+Your throne; loving devotion and faithfulness go before You.").
 
 God's dealings with Israel in the prophets bear on this project, though the argument must be stated carefully.
-When Israel persisted in spiritual adultery through idolatry—likened to marital unfaithfulness in Ezekiel 16:15-34—
-God issued a certificate of divorce, as recorded in Jeremiah 3:8: "And I saw, when for all the causes whereby
-backsliding Israel committed adultery I had put her away, and given her a bill of divorce; yet her treacherous sister
-Judah feared not, but went and played the harlot also." Isaiah 50:1 echoes the same reality. This is typological and
+When Israel persisted in spiritual adultery through idolatry, likened to marital unfaithfulness in Ezekiel 16:15-34,
+God issued a certificate of divorce, as recorded in Jeremiah 3:8, "She saw that because faithless Israel had committed adultery,
+I gave her a certificate of divorce and sent her away. Yet that unfaithful sister Judah had no fear and prostituted herself
+as well." Isaiah 50:1 echoes the same reality. This is typological and
 analogical reasoning, not direct legislative precedent: the Sinai covenant is not a template for Christian marriage
-law. What these texts establish is a principle—that covenants, by their nature, can include provisions for justice
+law. What these texts establish is a principle: that covenants, by their nature, can include provisions for justice
 when covenant terms are violated. The argument does not go further than that. Critically, the prophetic context also
-determines what kind of justice is in view. God's "divorce" was disciplinary, not terminal; the call to repentance
+determines what kind of justice is in view. God's "divorce" was disciplinary, not terminal, and the call to repentance
 in Jeremiah 3:12-14 follows immediately, and Hosea 2:19-20 promises a new betrothal in righteousness and
-faithfulness. Restoration was the goal from the beginning. This is the corrective the Jer. 3:8 analogy must carry
-into any application to human marriage: justice provisions exist to protect the covenant and create conditions for
+faithfulness. Restoration was the goal from the beginning. This is the sentiment that the Jeremiah 3:8 analogy must carry
+into any application in human marriage: provisions for justice exist to protect the covenant and create conditions for
 repentance and reconciliation, not primarily to punish. Just as God holds parties accountable without abandoning His
 redemptive purposes (Romans 3:25-26), so too should a Christian marriage contract order its remedies toward
 reconciliation first and dissolution only as a last resort.
 
 This marriage contract, therefore, is biblical in its intent to uphold justice within the covenant of marriage,
-acknowledging human sinfulness (Romans 3:23: "For all have sinned, and come short of the glory of God") while
-aspiring to God's ideals. In a fallen world, where no-fault divorce laws can undermine retributive justice—allowing
-one party to inflict harm (e.g., infidelity) without equitable consequences—this document provides a structured,
+acknowledging human sinfulness (Romans 3:23) while
+aspiring to God's ideals. In a fallen world, where no-fault divorce laws can undermine retributive justice, allowing
+one party to inflict harm (e.g. infidelity) without equitable consequences, this document provides a structured and
 Scripture-guided approach to benefits, prohibitions, appeals, and remedies. It promotes transparency and mutual
-submission (Ephesians 5:21: "Submitting yourselves one to another in the fear of God"), deterring sin through clear
-expectations and fostering reconciliation where possible (Matthew 19:6: "Wherefore they are no more twain, but one
-flesh. What therefore God hath joined together, let not man put asunder," balanced with allowances for porneia in
-verse 9). Importance lies in maintaining justice to reflect God's character: it safeguards vulnerable parties (e.g.,
-in asset division or child custody, per 1 Timothy 5:8), encourages stewardship of resources (Proverbs 13:22), and
-counters cultural derision of marriage by mitigating risks, particularly for men in high-stakes legal environments
-like California (where community property and alimony can lead to unjust outcomes). Edge cases, such as illness or
-poverty (explicitly non-prohibited herein), highlight mercy's role alongside justice (James 2:13: "For he shall have
-judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment"). Related considerations
-include cultural shifts—e.g., second marriages (1 Corinthians 7:39) or blended families—where such contracts can
+submission (Ephesians 5:21), deterring sin through clear
+expectations and fostering reconciliation where possible (Matthew 19:6), balanced with allowance for divorce in cases of
+porneia (Matthew 19:9). Importance lies in maintaining justice to reflect God's character, safeguarding vulnerable
+parties (e.g. in asset division or child custody, per 1 Timothy 5:8), encourages stewardship of resources (Proverbs 13:22),
+and counters cultural derision of marriage by mitigating risk taken on by men in high-stakes legal environments, where
+community property and alimony can lead to unjust outcomes. Edge cases, such as illness or
+poverty, highlight mercy's role alongside justice (James 2:13). Related considerations
+include second marriages and blended families (1 Corinthians 7:39), where such contracts can
 equitably protect inheritances without implying distrust. Ultimately, this contract is a tool for godly living, not
 a presumption of failure, aligning human unions with divine justice to glorify God (1 Corinthians 10:31).
 
+---
+
 ## I. The Authority
 
-- Marriage as a union intended by God: Genesis 2:21-25 (creation of woman from man, becoming one flesh); Mark 10:6-9
-  (Jesus affirming God's design for marriage from the beginning); Ephesians 5:31 (quoting Genesis on leaving and
-  cleaving).
-- Authority of God and His Word: Psalm 119:89 (God's word is eternal and settled); 2 Timothy 3:16-17 (Scripture is
-  God-breathed and useful for teaching); Hebrews 4:12 (Word of God is living and active); Matthew 28:18 (all
-  authority given to Jesus). Nuances: This section emphasizes divine sovereignty over human disputes, aligning with
+- Marriage as a union intended by God:
+  - Two become one (Genesis 2:21-25; Mark 10:6-9; Ephesians 5:31)
+- Authority of God and His Word:
+  - God's word is eternal and settled (Psalm 119:89)
+  - Scripture is
+    God-breathed and useful for teaching (2 Timothy 3:16-17)
+  - Word of God is living and active (Hebrews 4:12)
+  - All authority given to Jesus, the word of God incarnate (Matthew 28:18; John 1:1)
+
+_Nuances_:
+
+- This section emphasizes divine sovereignty over human disputes, aligning with
   Proverbs 21:1 (God directs hearts) and Romans 13:1 (authorities established by God), but in context of marriage,
-  it counters secular legal primacy. Edge case: In interfaith marriages, this could conflict with 2 Corinthians 6:14
-  (unequal yoking), but here assumes mutual faith.
+  it counters secular legal primacy.
+- In interfaith marriages, this could conflict with 2 Corinthians 6:14, but here the contract assumes mutual faith.
+
+---
 
 ## II. The Parties
 
-- Attestation to sound mind, character, and lawful age: 1 Timothy 3:2-7 (qualities for overseers, including
-  self-control and respectability, applicable to marital fitness); Titus 1:6-9 (similar elder qualifications
-  emphasizing soundness); Deuteronomy 1:13 (choosing wise, understanding people).
-- Lordship of Jesus and preeminence of God's Word: Romans 10:9 (confessing Jesus as Lord); Colossians 1:18
-  (Christ's preeminence); Philippians 2:9-11 (every knee bows to Jesus). Context: This establishes mutual faith as
-  foundational, echoing 1 Corinthians 7:39 (marry only in the Lord). Implications: Assumes adult consent, tying
-  into Genesis 2:24 (leaving parents implies maturity). Edge case: For remarriages, consider Deuteronomy 24:1-4
-  (Old Testament divorce allowances) balanced with Jesus' teachings in Matthew 19:3-9.
+- Lordship of Jesus and preeminence of God's Word:
+  - Confession of Jesus Christ as Lord (Romans 10:9; Philippians 2:9-11)
+  - Christ is preeminent and the head of the church (Colossians 1:18)
+- Of an adult age, capable of consent:
+  - Leaving one's parents implies maturity (Genesis 2:24)
+  - An expectation to provide for one's household implies, and helps to define, maturity (1 Timothy 5:8)
+
+---
 
 ## III. The Benefits
 
 ### Mutual Sexual Congress
 
-- Duty and exclusivity: 1 Corinthians 7:3-5 (spouses fulfill marital duty, not deprive each other); Hebrews 13:4
-  (marriage bed undefiled).
-- Hygiene and fitness: 1 Corinthians 6:19-20 (body as temple of Holy Spirit, glorify God in body); Song of Solomon
-  5:10-16 (mutual attraction in poetic terms). Nuances: Emphasizes ongoing effort, akin to Ephesians 5:28-29
-  (husbands love wives as own bodies). Edge case: Health issues may limit this (e.g., 1 Corinthians 7:5 allows
-  temporary abstinence by mutual consent).
+- Duty and exclusivity:
+  - Spouses fulfill marital duties to one another (1 Corinthians 7:3-5)
+    - _Edge case_: Health issues may limit this (e.g. 1 Corinthians 7:5 allows
+      temporary abstinence by mutual consent).
+  - Spouses must be sexually exclusive with one another, not inappropriately expressing love to others (Hebrews 13:4; Song
+    of Solomon 8:4)
+  - Losing attraction to one's spouse due to one's lustful desire is a failure to remain exclusive (Proverbs 5:15-20)
+  - The man's duty to his wife, to enable her fruitfulness, is to provide her with children (Psalm 128:3)
+- Hygiene and fitness:
+  - Our bodies are holy objects, requiring care and respect (1 Corinthians 6:19-20)
+  - Mutual attraction is to be maintained (Song of Solomon 5:10-16)
 
 ### Mutual Society
 
-- Companionship: Genesis 2:18 (not good for man to be alone, helper suitable); Ecclesiastes 4:9-12 (two better than
-  one for support). Context: Marriage as partnership, per Proverbs 31:10-12 (virtuous wife does husband good).
+- Companionship:
+  - Specifically enjoy one another with frequent interation (Deuteronomy 24:5; Ecclesiastes 9:9)
+  - The woman is a helper to the man in his pursuits, not the man a help to her pursuits (Genesis 2:18; Genesis 3:17)
+  - The man provides the wife with appropriate resources (Ezekiel 16:8-14)
+  - The woman brings good to her husband (Proverbs 31:10-12)
+  - The effort of the married couple is rewarded more greatly than either would be rewarded alone (Ecclesiastes 4:9-12)
 
 ### Mutual Rearing of Children
 
-- Parental responsibility: Deuteronomy 6:6-7 (teach children God's commands); Ephesians 6:4 (bring up in Lord's
-  discipline); Proverbs 22:6 (train child in the way). Implications: Shared duty, but with gender roles implied
-  elsewhere (e.g., Titus 2:4-5 for women teaching children).
-- These obligations are covenantal in character and are not dissolved by marital breakdown. Should separation or
-  divorce occur, both parties remain bound before God to provide for, protect, and instruct their children in the
-  faith (1 Timothy 5:8; Ephesians 6:4). The church panel retains advisory jurisdiction over disputes between the
-  parties concerning the welfare of their children, and both parties are morally bound by its determinations even
-  where a civil court is not.
-- Intent at signing: The parties intend that their children be raised in the Christian faith, educated in accordance
-  with Scripture, and brought up in a household ordered by biblical principles. This intent is recorded here as a
-  joint declaration. The parties acknowledge that a civil court adjudicating custody is not bound by this
-  declaration, but both parties are — before God and this contract.
+- Parental responsibility:
+  - Children are to be taught the Lord's commands (Deuteronomy 6:6-7)
+  - Parents, but especially fathers, are to discipline and instruct their children (Ephesians 6:4; Proverbs 22:6)
+  - These obligations are covenantal in character and are not dissolved by marital breakdown. Should separation or
+    divorce occur, both parties remain bound before God to provide for, protect, and instruct their children in the
+    faith (1 Timothy 5:8; Ephesians 6:4). The church panel retains advisory jurisdiction over disputes between the
+    parties concerning the welfare of their children, and both parties are morally bound by its determinations even
+    where a civil court is not.
 
 ### Mutual Support
+
+<!-- TODO: Continue here -->
 
 #### Financial
 
@@ -185,6 +200,8 @@ a presumption of failure, aligning human unions with divine justice to glorify G
 
 - By example and exhortation: Titus 2:7-8 (show good works as example); Hebrews 3:13 (exhort daily to avoid sin);
   1 Thessalonians 5:11 (encourage one another). Context: Mutual edification, as in Ephesians 4:29 (words build up).
+
+---
 
 ## IV. The Prohibitions
 
@@ -234,6 +251,8 @@ a presumption of failure, aligning human unions with divine justice to glorify G
 - Notes on illness and poverty: James 5:14-15 (pray for sick); 2 Corinthians 8:9 (Christ became poor); not grounds
   for remedy.
 
+---
+
 ## V. To Whom Appeal is Made
 
 - First appeal (private): Matthew 18:15 (go privately if brother sins).
@@ -243,6 +262,8 @@ a presumption of failure, aligning human unions with divine justice to glorify G
 - Proceedings and binding decisions: Deuteronomy 17:8-13 (judges decide, decisions binding); Hebrews 13:17 (obey
   leaders). Recording for accountability: Proverbs 18:17 (first seems right until cross-examined). Edge case: If
   party refuses, proceedings still proceed (Matthew 18:17, treat as outsider).
+
+---
 
 ## VI. The Remedies
 
@@ -300,6 +321,8 @@ reconciliation; it does not replace it.
 - Parental obligations stated in [Section III — Mutual Rearing of Children](#mutual-rearing-of-children) survive
   dissolution of the marriage. Divorce ends the covenant between husband and wife; it does not end either party's
   obligation to their children.
+
+---
 
 ## VII. Witnesses and Abuse of Process
 
