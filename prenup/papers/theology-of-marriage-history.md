@@ -274,7 +274,44 @@ Augustine addressed this directly in *De bono coniugali*:
 
 The argument is remarkable: Christians need not have children because the rest of the world
 — including those in fornication and concubinage — will produce enough offspring for the
-church to evangelize. God, in His providence, works good out of the world's sexual sin by
+church to evangelize.
+
+But Augustine goes further. When confronted with the obvious objection — what if *everyone*
+chose celibacy? — he does not retreat. He embraces the conclusion:
+
+> "But I am aware of some that murmur: What, say they, if all men should abstain from all
+> sexual intercourse, whence will the human race exist? Would that all would this, only in
+> 'charity out of a pure heart, and good conscience, and faith unfeigned;' much more
+> speedily would the City of God be filled, and the end of the world hastened."
+
+This is, by any honest reading, a form of eschatological anti-natalism. Augustine is not
+merely saying celibacy is preferable — he is saying that the *cessation of human
+reproduction* would be a positive good, because it would accelerate the filling of the City
+of God and hasten the eschaton. The human race ending through universal continence is not
+a catastrophe to be avoided but a consummation to be wished for.
+
+The theological move here is significant. Augustine ties the celibacy preference directly
+to eschatology: the purpose of history is to fill the predetermined number of the elect.
+Once that number is complete, history ends. Every generation of human reproduction extends
+the timeline. Therefore, reproduction — even lawful, marital reproduction — *delays* the
+coming of the kingdom. The most pious course of action is to stop having children entirely
+and let God complete His harvest from the existing population.
+
+This puts Augustine in a peculiar position. He is not a Manichaean — he does not say
+creation is evil or that the body is a prison. He affirms marriage as good. But his
+eschatological framework leads him to a conclusion that functionally aligns with the
+anti-natalist impulse: it would genuinely be *better* if humans stopped reproducing. The
+goodness of marriage is real but provisional — a good that would ideally be rendered
+unnecessary by universal continence.
+
+The Reformers and Puritans never engaged this argument directly — by their time, the
+celibacy hierarchy had been rejected on other grounds. But the logic is worth surfacing
+because it reveals how far the patristic framework could go when followed to its natural
+conclusion. A theology that treats celibacy as categorically higher than marriage will
+eventually reach the point where it treats the end of human reproduction as desirable. The
+Puritan celebration of the fruitful household is not merely a different emphasis — it is a
+rejection of the entire eschatological framework that made Augustine's anti-natalism
+coherent. God, in His providence, works good out of the world's sexual sin by
 generating a surplus of souls available for conversion. The church's task is not to *produce*
 the next generation of believers through the covenant family but to *recruit* them from the
 world's abundant progeny into "holy friendships" (spiritual community).
