@@ -155,6 +155,107 @@ considerably. Several factors drove this:
 - He is the most marriage-positive of the major Greek fathers, yet still operates within the
   celibacy-preference framework.
 
+### The Pre-Augustinian Roots
+
+Augustine is often treated as the architect of the procreation-only view, but the ideas were
+already circulating well before him:
+
+- **Clement of Alexandria** (*c.* 150–215): In the *Paedagogus* and *Stromata*, Clement
+  explicitly argued that sexual intercourse should be only for procreation. He compared it
+  to sowing seed — a farmer does not scatter seed when he does not intend to harvest. This
+  is roughly 200 years before Augustine.
+- **Gregory of Nyssa** (*c.* 335–395): In *On Virginity*, he treated sexual desire as a
+  consequence of the fall, not part of the original creation design. Had Adam not sinned,
+  reproduction would presumably have occurred by some other, non-carnal means.
+- **Ambrose** (*c.* 340–397): Augustine's own mentor and baptizer. A vigorous advocate of
+  consecrated virginity whose influence on the young Augustine was direct and formative.
+
+Augustine did not invent the procreation-only position. What he did was **systematize** it —
+the three goods framework, the concupiscence theory, the grading of sinfulness within
+marital sex — into a coherent theological package that could be taught, cited, and built
+upon. He gave the tradition its operating system.
+
+### The Transmission: Augustine to the Reformers
+
+Augustine's framework did not persist by its own weight. It was transmitted and amplified
+through a specific chain of authorities:
+
+1. **Gregory the Great** (*c.* 540–604): The most important link. Gregory is often called
+   the last of the Latin Fathers and the first of the medieval popes. He transmitted
+   Augustinian thought into the early medieval period — and on marital sex, he went
+   *further* than Augustine. Gregory taught that even marital sex for procreation involves
+   sin, because the physical pleasure that accompanies the act is itself a manifestation of
+   concupiscence. Augustine said procreative sex is sinless; Gregory said even that cannot
+   fully escape the taint. This is the most extreme position in the mainstream tradition.
+
+2. **Peter Lombard** (*c.* 1096–1164): His *Sentences* became the standard theology
+   textbook for over 400 years. Every medieval theologian of note wrote a commentary on it.
+   Lombard codified Augustine's marriage theology and formalized marriage as one of the
+   seven sacraments. Through the *Sentences*, Augustine's three goods became the structural
+   framework for all subsequent Latin theology of marriage.
+
+3. **Thomas Aquinas** (1225–1274): Built on Augustine and Lombard but was somewhat more
+   moderate than Gregory. Aquinas argued that marital sex for pleasure alone is venially
+   sinful, but that sex for procreation or for rendering the conjugal debt (1 Cor. 7:3) is
+   not sinful at all. He partially walked back Gregory's extreme — but the basic Augustinian
+   framework (procreation as the primary legitimate end, pleasure as suspect) remained
+   intact.
+
+4. **The Council of Trent** (1545–1563): Dogmatized marriage as a sacrament and codified the
+   Augustinian-Lombardian framework as official Catholic teaching. By this point, the
+   tradition was over a millennium old and carried the weight of conciliar authority.
+
+The chain is: **Clement/Jerome (pre-Augustinian precedent) → Augustine (systematizer) →
+Gregory the Great (transmitter and radicalizer) → Lombard (codifier) → Aquinas (moderate
+refinement) → Trent (dogmatization)**. Augustine is not the sole author, but he is the
+indispensable node. Remove him from the chain and the medieval theology of marriage looks
+fundamentally different.
+
+### The Ideal of Marital Celibacy in Old Age
+
+One of the most revealing features of the patristic theology of marriage is its position on
+sex as couples age. If procreation is the sole legitimate purpose of marital intercourse,
+what happens when procreation is no longer possible?
+
+The fathers answered consistently: **the properly ordered married couple should trend toward
+celibacy.**
+
+**Augustine** is the clearest voice here. In *De bono coniugali*, he argues that as the
+possibility of children recedes, the married couple should progressively abstain from
+sexual relations. The bond of marriage remains — *sacramentum* does not require ongoing
+sexual union — but the *use* of marriage (sexual intercourse) should give way to continence.
+Augustine held this up as the natural arc of a godly marriage: sexual union for the purpose
+of children in the earlier years, then a mutual, voluntary turn toward celibacy as a higher
+form of marital devotion. The couple who achieves this has, in Augustine's view, ascended
+from the good of marriage to something better *within* marriage.
+
+**Jerome** went further, predictably. In *Against Jovinianus*, he suggested that the truly
+devout married couple would abstain as soon as sufficient children were produced — not
+waiting for age to force the issue, but choosing continence as a spiritual discipline. For
+Jerome, the goal was not merely to stop having sex when procreation became impossible, but
+to stop as soon as possible.
+
+**Gregory the Great** elaborated the practical expectations. In his *Pastoral Rule*, he
+taught that married couples should approach sexual relations with reluctance and penitence,
+and should welcome the cessation of sexual activity as a spiritual liberation. Old age was
+not a loss but a gift — freedom from the burden of concupiscence.
+
+**Chrysostom** is again the partial exception. While he affirmed the superiority of
+virginity, his homilies on marriage place greater emphasis on the ongoing companionship
+and mutual devotion of aging couples. He does not push the marital celibacy ideal as
+aggressively as the Latin fathers, though he does not reject it either.
+
+The practical result of this teaching was a vision of marriage that treated sexual union as
+a temporary, instrumental phase — necessary for procreation but ideally transcended. The
+couple who continued sexual relations beyond the procreative years was not committing grave
+sin, but they were failing to pursue the higher path available to them.
+
+This stands in stark contrast to the later Puritan view, in which marital intimacy —
+including sexual union — was celebrated as a lifelong good, an expression of the "mutual
+society, help, and comfort" that the marriage covenant exists to provide. The Puritans did
+not merely reject the celibacy hierarchy in principle; they rejected the trajectory it
+implied for the lived experience of marriage from beginning to end.
+
 ### The Consensus
 
 By the end of the 4th century, the patristic consensus was clear:
