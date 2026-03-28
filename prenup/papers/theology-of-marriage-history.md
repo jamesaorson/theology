@@ -79,6 +79,7 @@ considerably. Several factors drove this:
 ### Key Figures
 
 **Tertullian** (*c.* 155–*c.* 220):
+
 - *To His Wife* (Books I–II): Urges his wife not to remarry after his death. Concedes first
   marriage as lawful but frames second marriage as near-fornication.
 - *On Exhortation to Chastity*: Goes further — marriage is permitted but continence is
@@ -88,12 +89,14 @@ considerably. Several factors drove this:
   radicalize over time.
 
 **Origen** (*c.* 185–*c.* 253):
+
 - Allegorized the Song of Songs as Christ and the soul, stripping it of its literal marital
   and sexual content.
 - His self-castration (reported by Eusebius, though disputed) became emblematic of the
   ascetic extreme.
 
 **Jerome** (*c.* 347–420):
+
 - *Against Jovinianus* (393): The most influential patristic text on the virginity question.
   Jerome argues that virginity is categorically superior to marriage. Marriage is good;
   virginity is better. Gold vs. silver.
@@ -104,6 +107,7 @@ considerably. Several factors drove this:
 - Jerome's polemic shaped Latin Christianity's hierarchy of sexual states for a millennium.
 
 **Augustine** (*354–430*):
+
 - *On the Good of Marriage* (*De bono coniugali*, 401): Written partly in response to
   Jerome's excesses. Augustine affirms three goods of marriage:
   1. **Fidelity** (*fides*) — mutual sexual exclusivity
@@ -149,6 +153,7 @@ considerably. Several factors drove this:
   a theological error but the long shadow of one man's biography.
 
 **John Chrysostom** (*c.* 349–407):
+
 - *Homilies on Ephesians*: Offers a remarkably high view of marital love. "When we speak of
   the wife obeying the husband, we speak of it as of the church."
 - But even Chrysostom, in his treatise *On Virginity*, ranks virginity above marriage.
@@ -503,21 +508,25 @@ The Puritans did not merely accept marriage as permissible or desacramentalize i
 matter. They positively **celebrated** it as a spiritual good.
 
 **William Gouge** (*Of Domesticall Duties*, 1622):
+
 - A comprehensive theology of household relationships
 - Marriage is not a lesser calling — it is the normative calling for most Christians
 - The household is a "little church" and a "little commonwealth"
 
 **Richard Baxter** (*A Christian Directory*, 1673):
+
 - Detailed practical theology of marriage
 - Lists the duties of husbands and wives with remarkable specificity
 - Treats the marital relationship as a primary context for sanctification
 
 **William Perkins** (*Christian Oeconomie*, 1590):
+
 - One of the earliest systematic Puritan treatments
 - Marriage is the foundation of all social order
 - Explicitly rejects the Catholic hierarchy of virginity over marriage
 
 **John Milton** (*The Doctrine and Discipline of Divorce*, 1643):
+
 - The most radical Puritan voice on marriage
 - Argues that the primary purpose of marriage is companionship, not procreation
 - If companionship fails irremediably, divorce is justified — even beyond the traditional
@@ -583,7 +592,7 @@ the church.
 ## VIII. Summary: The Arc of Development
 
 | Period | View of Marriage | Key Move |
-|--------|-----------------|----------|
+| -------- | ----------------- | ---------- |
 | Apostolic | Good but secondary to celibacy | Paul's eschatological framework |
 | Patristic | Good but inferior to virginity | Ascetic amplification of Paul |
 | Jovinian controversy | Equality condemned as heresy | Hierarchy formalized |
